@@ -3,5 +3,5 @@
 
 # TOPICS 
 
-- [Introduction To SQL]()
+- [Introduction To SQL](Intro to SQL.md)
 
