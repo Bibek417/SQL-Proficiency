@@ -7,5 +7,9 @@
 - [OLTP VS OLAP]()
 - [Entity Vs Attribuute]()
 - [SQL COMMANDS]()
-- 
+- [What is TRIGGER in SQL]()
+- [What is INDEXING in SQL]()
+- [Difference Between Stored Procedure and User Define Function]()
+- [Generalization and specialization]()
+- [Entity Relationship Diagram]()
 
