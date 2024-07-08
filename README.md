@@ -4,4 +4,8 @@
 # TOPICS 
 
 - [Introduction To SQL](Intro_to_SQL.md)
+- [OLTP VS OLAP]()
+- [Entity Vs Attribuute]()
+- [SQL COMMANDS]()
+- 
 
