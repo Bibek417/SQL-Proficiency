@@ -1,1 +1,2 @@
 For more details, refer to [this article](https://aws.amazon.com/compare/the-difference-between-olap-and-oltp/#:~:text=OLTP-,Online%20analytical%20processing%20(OLAP)%20and%20online%20transaction%20processing%20(OLTP,processing%20and%20real%2Dtime%20updates.)
+
