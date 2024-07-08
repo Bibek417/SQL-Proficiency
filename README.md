@@ -2,4 +2,4 @@
 ### Welcome to my SQL learning repository. Here you will find detailed explanations and notes on various SQL topics.
 
 # TOPICS 
-- [What is a Data Warehouse?]()
+- [What is a Data Warehouse?](Bibek_resume_db.pdf)
