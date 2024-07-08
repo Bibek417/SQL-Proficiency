@@ -4,7 +4,7 @@
 # TOPICS 
 
 - [Introduction To SQL](Intro_to_SQL.md)
-- [OLTP VS OLAP]()
+- [OLTP VS OLAP](https://github.com/Bibek417/SQL-Proficiency/blob/main/OLTP_VS_OLAP.md)
 - [Entity Vs Attribuute]()
 - [SQL COMMANDS]()
 - [What is TRIGGER in SQL]()
