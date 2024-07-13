@@ -38,4 +38,4 @@ SQL commands are mainly categorized into four types:
      - `SAVEPOINT`
      - `SET TRANSACTION`
 
-- [DIFFERENCE BETWEEN DROP, TRUNCATE AND DELET]()
+- [DIFFERENCE BETWEEN DROP, TRUNCATE AND DELET](https://github.com/Bibek417/SQL-Proficiency/blob/main/DELET%20V%20TRUNCATE%20V%20DROP.jpg)
