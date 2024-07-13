@@ -1,5 +1,5 @@
 # SQL-Proficiency
-### Welcome to my SQL learning repository. Here you will find detailed explanations and notes on complete SQL basics to advance.
+### Welcome to my SQL learning repository. Here are some detailed explanations and notes on complete SQL basics to advance.
 
 # TOPICS 
 
