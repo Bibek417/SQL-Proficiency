@@ -37,3 +37,5 @@ SQL commands are mainly categorized into four types:
      - `ROLLBACK`
      - `SAVEPOINT`
      - `SET TRANSACTION`
+
+- [DIFFERENCE BETWEEN DROP, TRUNCATE AND DELET]()
