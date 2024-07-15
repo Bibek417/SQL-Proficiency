@@ -37,7 +37,7 @@
    - Using a semantic constraint for this requirement ensures that we don't get incorrect data for any row.  
    - For example, a row with a phone number +91123456789 would not be allowed to enter the database as it has only 9 digits after the country code.
   
-[## HOW TO CONVERT ERD DIAGRAMS TO TABLES ]()
+[## HOW TO CONVERT ERD DIAGRAMS TO TABLES ](https://github.com/Bibek417/SQL-Proficiency/blob/main/How%20to%20read%20and%20Convert%20Erd%20Diagrma%20to%20tables.pdf)
 
 
 
