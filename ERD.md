@@ -2,13 +2,14 @@
 
 ## What is an Entity and Attribute?
 
-Attributes describe the characteristics or properties of an entity in a database table.  
-An entity in a database table is defined with a fixed set of attributes.
+- Attributes describe the characteristics or properties of an entity in a database table.  
+- An entity in a database table is defined with a fixed set of attributes.
 
 ## Entity Constraints
 
-Constraints are rules used to restrict the values that can be stored in the columns of a database.  
-Types of constraints include:
+- Constraints are rules used to restrict the values that can be stored in the columns of a database.
+   
+### Types of constraints include:
 
 1. **Unique Constraint**: This constraint is used for columns that need unique values.  
    For example, 'employee IDs' should be unique in an employee table.
