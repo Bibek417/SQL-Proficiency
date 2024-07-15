@@ -36,5 +36,8 @@
    - For example, all mobile numbers in India start with +91, followed by 10 digits.  
    - Using a semantic constraint for this requirement ensures that we don't get incorrect data for any row.  
    - For example, a row with a phone number +91123456789 would not be allowed to enter the database as it has only 9 digits after the country code.
+  
+## HOW TO CONVERT ERD DIAGRAMS TO TABLES :- 
+
 
 
