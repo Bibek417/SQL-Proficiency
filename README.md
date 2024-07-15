@@ -5,11 +5,10 @@
 
 - [Introduction To SQL](Intro_to_SQL.md)
 - [OLTP VS OLAP](https://github.com/Bibek417/SQL-Proficiency/blob/main/OLTP_VS_OLAP.md)
-- [Entity Vs Attribuute]()
+- [Entity Vs Attribuute](https://github.com/Bibek417/SQL-Proficiency/blob/main/ERD.md)
 - [SQL COMMANDS](https://github.com/Bibek417/SQL-Proficiency/blob/main/sql_commands.md)
 - [What is TRIGGER in SQL]()
 - [What is INDEXING in SQL]()
 - [Difference Between Stored Procedure and User Define Function]()
 - [Generalization and specialization]()
-- [Entity Relationship Diagram]()
 
