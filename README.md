@@ -7,7 +7,7 @@
 - [OLTP VS OLAP](https://github.com/Bibek417/SQL-Proficiency/blob/main/OLTP_VS_OLAP.md)
 - [Entity Vs Attribuute](https://github.com/Bibek417/SQL-Proficiency/blob/main/ERD.md)
 - [SQL COMMANDS](https://github.com/Bibek417/SQL-Proficiency/blob/main/sql_commands.md)
-- [What is TRIGGER in SQL]()
+- [What is TRIGGER in SQL](https://github.com/Bibek417/SQL-Proficiency/blob/main/TRIGGER.pdf)
 - [What is INDEXING in SQL]()
 - [Difference Between Stored Procedure and User Define Function]()
 - [Generalization and specialization]()
