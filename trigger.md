@@ -1,1 +1,1 @@
-[#**Hand Written Note On Trigger**]()
+[**Hand Written Note On Trigger**]()
