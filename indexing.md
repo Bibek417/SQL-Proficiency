@@ -1,1 +1,1 @@
-[**Hand Written Notes ON INDEXING**](https://github.com/Bibek417/SQL-Proficiency/blob/main/indexing.pdf)
+[**Hand Written Notes On INDEXING**](https://github.com/Bibek417/SQL-Proficiency/blob/main/indexing.pdf)
