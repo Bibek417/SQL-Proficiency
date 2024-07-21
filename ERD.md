@@ -9,7 +9,6 @@
 
 - Constraints are rules used to restrict the values that can be stored in the columns of a database.
    
-### Types of constraints include:
 
 1. **Unique Constraint**:
    - This constraint is used for columns that need unique values.  
