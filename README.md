@@ -9,6 +9,6 @@
 - [SQL COMMANDS](https://github.com/Bibek417/SQL-Proficiency/blob/main/sql_commands.md)
 - [What is TRIGGER in SQL](https://github.com/Bibek417/SQL-Proficiency/blob/main/trigger.md)
 - [What is INDEXING in SQL](https://github.com/Bibek417/SQL-Proficiency/blob/main/indexing.md)
-- [Difference Between Stored Procedure and User Define Function]()
+
 - [Generalization and specialization]()
 
