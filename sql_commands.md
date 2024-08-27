@@ -39,6 +39,4 @@ SQL commands are mainly categorized into four types:
      - `SET TRANSACTION`
 
 - [DIFFERENCE BETWEEN DROP, TRUNCATE AND DELET](https://github.com/Bibek417/SQL-Proficiency/blob/main/DELET%20V%20TRUNCATE%20V%20DROP.jpg)
-  - Delete is a DML language but Drop and Truncate are DDL language.
-  - Delete drops the rows in the table, Truncate also drop the rows in the table but the difference between these two is delete has a rollback option but Truncate doesn't have this type of feature.
-  - Drop and Truncate both are DDL languages but the difference is Drop will delete everything the whole data and the constraints associated with them.
+  
